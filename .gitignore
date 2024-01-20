@@ -165,4 +165,4 @@ Pipfile.lock
 Data/
 Data copy/
 Backup/
-Models/Weights/
+Models/
